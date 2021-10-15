@@ -1,0 +1,14 @@
+{
+  "name": "notion",
+  "version": "1.0.0",
+  "description": "webapp skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "cat yanish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
